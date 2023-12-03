@@ -455,7 +455,7 @@ async function draw(){
                         if (loc.x < 2500 && loc.y < 1000){
                         tooltip.style('display', 'block')
 
-                             .style('left', '750px')
+                             .style('left', '10px')
                              .style('top', '10px')
 
                         } else if (loc.x > 2500 && loc.y < 1000) {
@@ -467,7 +467,7 @@ async function draw(){
                         } else if (loc.x < 2500 && loc.y > 1000) {
                             tooltip.style('display', 'block')
 
-                            .style('left', '750px')
+                            .style('left', '10px')
                             .style('top', '10px')
                         } else if (loc.x > 2500 && loc.y > 1000) {
                             tooltip.style('display', 'block')
