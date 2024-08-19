@@ -1,7 +1,7 @@
 # FaultTreeAnalysisGI
 Interactive version of fault trees used in study:
 **A Deep Dive into Green Infrastructure Failures using Fault Tree Analysis**
-by: Mahdi Bahrami, Bardia Roghania, Franz Tscheikner-Gratla, Marius Møller Rokstada
+
 by: Mahdi Bahrami, Bardia Roghani, Franz Tscheikner-Gratl, Marius Møller Rokstad
 
 This study has been published in Water Research. You can access the article via the following DOI link: [https://doi.org/10.1016/j.watres.2024.123456.](https://doi.org/10.1016/j.watres.2024.121676)
