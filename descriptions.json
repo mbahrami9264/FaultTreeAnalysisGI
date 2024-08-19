@@ -1,0 +1,217 @@
+{
+    "TE":
+    {"strokewidth": "7px" ,"description": "The primary event of concern or undesired state, defined here as the failure of green infrastructure in delivering any of its designated service functions"},
+    "SFF1":
+    {"strokewidth": "5px" ,"description": "The designed green infrastructure systems or elements intended to manage stormwater runoff prove inadequate in effectively mitigating flooding or attenuating the volume of runoff (as designed for), leading to increased risk of urban flooding, and potential damage to surrounding areas"},
+    "SFF1-triangle":
+    {"strokewidth": "1px" ,"description": "The designed green infrastructure systems or elements intended to manage stormwater runoff prove inadequate in effectively mitigating flooding or attenuating the volume of runoff (as designed for), leading to increased risk of urban flooding, and potential damage to surrounding areas"},
+    "SFF2":
+    {"strokewidth": "5px" ,"description": "Instances where the green infrastructure or its components fail to effectively remove pollutants from stormwater runoff or inadvertently become sources of pollution themselves"},
+    "SFF2-triangle":
+    {"strokewidth": "1px" ,"fill":"#C7A1E3","description": "Instances where the green infrastructure or its components fail to effectively remove pollutants from stormwater runoff or inadvertently become sources of pollution themselves"},
+    "SF2-triangle":
+    {"strokewidth": "1px" ,"fill":"#C7A1E3","description": "Instances where the green infrastructure or its components fail to effectively remove pollutants from stormwater runoff or inadvertently become sources of pollution themselves"},
+    "SFF3":
+    {"strokewidth": "5px" ,"description": "Besides their impact on water related risks, green infrastructure provide a wide diversity of ecosystem services essential to human life, understood as the co-benefits obtained from GI implementation. The term secondary is used to address these co-benefits, as they are often not the key reason behind adapting GIs in practice"},
+    "SFF3-triangle":
+    {"strokewidth": "1px" ,"fill":"#FF5050","description": "Besides their impact on water related risks, green infrastructure provide a wide diversity of ecosystem services essential to human life, understood as the co-benefits obtained from GI implementation. The term secondary is used to address these co-benefits, as they are often not the key reason behind adapting GIs in practice"},
+
+    "IE1":
+    {"fill":"#B4C7E7","description": "Any changes in the already built infrastructures in the area surrounding the GI that can hinder its performance"},
+    "IE2":
+    {"fill":"#B4C7E7","description": "Inflow of water from contributing drainage area is hindered caused by external influencers"},
+    "IE3":
+    {"fill":"#B4C7E7","description": "Entry points to the ponding area are obstructed"},
+    "IE4":
+    {"strokedasharray": "30 10","description": "A curb cut is a sloped or lowered section of a sidewalk or curb that allows for a smooth transition between the the street and the green infrastructure. Curb cuts are used as a type of inlet in bioswales and rain gardens located in parking lots or on the side of the roads. Curb cuts could be blocked by parked cars, trash or sediment accumulation"},
+    "IE5":
+    {"strokedasharray": "30 10","description": "A catch basin insert serves as a filtration component that captures and prevents the passage of debris, sediment, and pollutants into the green infrastructure. Catchbasin inserts may be used for inlets of bioswales and rain garden located on the side of the roads or parking lots. Catchbasin inserts could be blocked by parked cars, trash or sediment accumulation"},
+    "IE6":
+    {"description": "Degradation of design specifications of channel or ponding areas for stormwater retention. For example, changes in the channel slope, ponding areas volume, vegetation and soil problems, etc"},
+    "IE7":
+    {"strokedasharray": "30 10","description": "Change in the grading, damage to vegetation, washoff or any other events that could potentially damage the side slopes of the ponding area"},
+    "IE8":
+    {"strokedasharray": "30 10","fill":"#B4C7E7","description": "Changes to check dams such as cracks, displacement of stones, or any events occuring near the check dam such as soil washoff or trash accumulation, could potentially affect the ponding times behind the dam or interfere with the removal of total suspended solids"},
+    "IE9":
+    {"strokedasharray": "30 10","description": "Vegetation in green infrastructure improves runoff retention by slowing down the flow rats, improving the infiltration process into the soil, and increasing evapotranspiration. Events that could affect any of said processes could potentially decrease water retention capabilities of green infrastructure"},
+    "IE10":
+    {"strokedasharray": "20 10 5 10","description": "The height or density of the vegetation is too low, hence the area of contact between runoff and vegetation is too small which means less channel roughness to help slow down the flow rates"},
+    "IE11":
+    {"strokedasharray": "20 10 5 10","description": "Runoff flow rates inside channel area are too low, reasulting in a ponding time that is longer than the original design. Ponded water decreases the retention capacity of green infrastructure for consequative rainfall events, and could lead to vegetation and soil problems"},
+    "IE12":
+    {"strokedasharray": "20 10 5 10","description": "The expected moisture loss through transpiration and evaporation from vegetation and soil is substantially diminished"},
+    "IE13":
+    {"strokedasharray": "30 10","description": "Infiltration rates vary in different types of soils that use different filter media. Other factors such as soil compaction and moisture levels can also affect the infiltration rates"},
+    "IE14":
+    {"strokedasharray": "20 10 5 10","description": "Soil moisture levels remain high long after the rainfall event is over.  High soil moisture decreases the infiltration rates of soil which could cause ponding for consequative rainfall events, and may lead to vegetation and soil problems"},
+    "IE15":
+    {"description": "In some green infrastructure and based on local weather conditions, irrigation systems may be installed to help with vegetation establishment. The irrigation system might not work as designed due to malfunctions in the sensors, pipe breakages or leakages, clogged sprinklers, freezing, etc, which could affect roof integrity in green roofs."},
+    "IE16":
+    {"strokedasharray": "30 10","description": "The green roof area is overly saturated and has low infiltration rates as a result, which could lead to ponding during rainfall events"},
+    "IE17":
+    {"strokedasharray": "30 10","description": "Irrigation systems water distribution pipes and manifolds are susceptible to bursts or leakages that could lead to ponding, causing high soil moisture levels. In green roofs, leakages could also damage the roof deck"},
+    "IE18":
+    {"description": "Irrigation systems pipe and manifold joints leaking or breaking due to faulty installation or applied pressures. Could potentially lead to leakages or breakages resulting in ponding, and in green roofs there is a chance it could damage the roof deck"},
+    "IE19":
+    {"description": "Outflow points from the ponding area could be blocked by external factors such as parked cars, trash accumulation, tree trunks, new installed infrastructure, etc"},
+    "IE20":
+    {"strokedasharray": "30 10","fill":"#92D050", "description": "Drainage layer in green roofs is in charge of removing excessive water from the vegetated areas. Over time, with the movement of filter media particles or vegetation roots into the lower layers of the green roof, there is a chance for the drainage layer to get blocked. This could slow down the drainage rates, leading to ponding and high soil moisure levels"},
+    "IE21":
+    {"strokedasharray": "30 10","description": "The under drain pipe installed in bioswales or rain gardens removes the excessive infiltrated water from the ponding areas. Over the time with the movement of filter media particles, vegetation roots, or freezing of water in cold weathers, there is a chance for underdrain blockages that could slow down the removal excessive water"},
+    "IE22":
+    {"fill":"#B4C7E7","description": "Accumulation of pollutants and suspended solids caused from the increase of construction or other activities in the contributing drainage areas of green infrastructure, could increase the levels of pollutants that enter the green infrastructure, causing the contaminant levels to be higher than what the infrastructure was designed for"},
+    "IE23":
+    {"strokedasharray": "20 10 5 10","description": "Green infrastructure are designed to remove suspended solids and other pollutants from runoff. However, over the time accumulated pollutants inside the ponding areas could resuspend during heavy rainfall events, making the green infrastructure a source of pollution itself"},
+    "IE24":
+    {"strokedasharray": "20 10 5 10","fill":"#B4C7E7", "description": "Any changes in how the green infrastructure areas surrounding the GI is used, maintained, or developed that could potentially change the receiving amount of pollutants and runoff from the designed criteria of the green infrastructure causing the contaminant levels to be higher than what the infrastructure was designed for"},
+    "IE25":
+    {"description": "Damages to the inlet structure such as cracks, washoff, corrosion, or accumulation of pollutants over time, could create a source of pollution that directly contaminates the inflow into the ponding areas of green infrastructure"},
+    "IE26":
+    {"description": "Component failures such as vegetation and soil problems, movement of check dam stones or mulch particles in the main channel area or main ponding areas could create a source of pollution that directly pollutes the flow inside the green infrastructure"},
+    "IE27":
+    {"strokedasharray": "20 10 5 10","description": "Gradual deterioration of vegetation, concrete structures, pipes, etc that might release pollutants inside the green infrastructure ponding areas and pollute the runoff outflow"},
+    "IE28":
+    {"description": "Damages to the outlet structure such as cracks, washoff, corrosion, or accumulation of pollutants over time, could create a source of pollution that directly contaminates the outflow from the ponding or channel areas of green infrastructure"},
+    "IE29":
+    {"strokedasharray": "20 10 5 10","description": "Steep-slope flows can happen over time due to design or maintenance issues that could lead to occurrence of scouring (Erosion around elements) around components, which leads to pollution of the outflow"},
+    "IE30":
+    {"fill":"#B4C7E7","description": "Monitoring wells are protected by a cap to block direct access into the infiltrated water. However, the pipe or the cap may break from maintenance activities such as mowing or by vandalism. This allows direct access for pollutant intrusion into the infiltrated water and groundwater"},
+    "IE31":
+    {"description": "One of the main criterias of green infrastructure adaption aside from stormwater capabilities is aesthetic value. However, this feature could be affected by maintenance and operation issues. The surrounding areas or the ponding area of the green infrastructure may look unappealing and function differently from the original design"},
+    "IE32":
+    {"description": "Sub-component failures in the ponding area such as vegetation death, ponding caused by soil problems, or accumulation of trash and pollutants may cause bad odors from the green infrastructure and disturb the passersby or residents in the area"},
+    "IE33":
+    {"description": "Differences in the designed green infrastructure ponding area and the current conditions, such as dead vegetation, accumulation of mulch particles around elements, patches of ponded water on the surface, etc"},
+    "IE34":
+    {"description": "Accumulation of hazardous waste, pathogens, bacteria, appearance of mosquitos, etc. in contributing drainage areas or ponding areas of green infrastructure, that could cause health concerns in the area"},
+    "IE35":
+    {"description": "Pathogens and bacteria have accumulated in the ponding or channel areas which may lead to health risks, and pollution of outflows from the green infrastructure"},
+    "IE36":
+    {"description": "One of the service functions of green infrastructure is the improvement of urban microclimates through processes such as evapotranspiration, providing shading areas, or removal of particulate matter. Component failures such as vegetation issues, damaged trees, or soil compaction can affect the provision of this service function"},
+    "IE37":
+    {"strokedasharray": "30 10","description": "Trees in the green infrastructure areas may be damaged by storms, vandalism, or may die during periods of drought. Without the trees, green infrastructure could not provide shading to help improve urban comfort and air temperatures"},
+    "IE38":
+    {"fill":"#92D050","description": "One of the service functions of green roofs is the attenuation of noise. Green roof layers such as the filter media and insulation layer could reduce noise pollution inside buildings. Soil thickness affects the ability of green roofs in noise attenuation, which should be considered in the design and construction steps of green roofs"},
+    "IE39":
+    {"description": "One of the possible benefits of green infrastructure implementation is creating opportunities or areas for social and recreational activities. However, limitations in how the green infrastructure areas could be accessed could affect such functions, such as lack of access to the roof, or no sitting places near the infrastructure"},
+    "IE40":
+    {"fill":"#92D050","description": "One of the functions of green roofs is the higher durability compared to normal roofs. Green roofs act as a natural barrier for the roof membrane, shielding it against thermal shocks, and mechanical damages. If not constructed or maintained correctly, green roofs can have adverse effects on the roof by causing water proofing issues, excessive weight, ponding, etc"},
+    "IE41":
+    {"strokedasharray": "30 10","description": "In some green roofs, non-vegetated rooftop areas are available to provide access for recreational activities or maintenance crews. These areas are susceptible to degradation, damaging the underlying roof structure, such as appearence of invasive plants, leakages from irrigation components, movement of filter media caused by wind, etc"},
+    "IE42":
+    {"description": "Green roof uses multiple protective layers for vegetation growth, stormwater drainage, insulation, water proofing and leak detection. Problems in green roofs protective layers, such as punctures, separation from roof deck or leaking, caused by aging, maintenance issues, weather conditions, puts the roof structure in risk"},
+    "IE43":
+    {"strokedasharray": "30 10","description": "In green roofs, the leak detection layer is installed to check (periodically) for the presence of leaks in the water-proofing membrane. Malfunctions in the system may cause the leak detection layer to not spot moisture leaks into the roof structure"},
+    "IE44":
+    {"description": "Green infrastructure play a role in fostering biodiversity through vegetation growth, and providing habitats for insects, etc. However, challenges in plant establishment may result in limited biodiversity enhancement from these infrastructure"},
+    "IE45":
+    {"strokedasharray": "30 10","description": "If the green infrastructures vegetation cover is not diverse or in good enough densities, the green infrastructures abilities in relation to biodiversity enhancement may be affected.  Lack of variability in established plants inside the green infrastructure (monocultures) could also be an important factor in green infrastructures failure in this regard"},
+    "BE1":
+    {"description": "A newly constructed obstacle, or other infrastructure in the green infrastructure’s contributing drainage areas or between two infrastructures interfere with the collection or conveyance of runoff. This event could be time dependent (a car parking on an inlet for some hours of the day) or it can be fixed (a power box blocking the inlet or outlet)"},
+    "BE2":
+    {"description": "Gradual deterioration of asphalts, sidewalks, pavers, etc that can hinder the functioning of green infrastructure or block the inlet or outlet structures"},
+    "BE3":
+    {"fill":"#B4C7E7","description": "Winter road maintenance introduces salt and gravel to green infrastructure ponds, risking stormwater contamination. Salt impacts soil infiltration, and gravel may cause outflow clogging. Using pond areas for snow storage further contaminates outflows when melted, affecting volume and causing blockages in soil infiltration points"},  
+    "BE4":
+    {"description": "Street litter, plastics, food packaging, pet waste, etc could be carried by runoff, wind, or directly dumped inside green infrastructure ponding areas. The pile up can hinder infiltration and stormwater conveyance, contribute to clogging, decrease ponding volume, detract from the aesthetics appeal, and act as a source of pollution"},
+    "BE5":
+    {"description": "Remains of mowing grass, lawn waste, dead plants, or leaves left or piled up inside the green infrastructure could be a source of nitrogen pollution. They can also cause clogging, decrease the ponding volume, and detract from the aesthetics appeal"},
+    "BE6":
+    {"description": "Weeds or other nuisance plants appearing in the green infrastructure vegetated areas that are not considered in the original design. They can cause problems to the green infrastructures vegetation, slow the flow rates (by increasing channel roughness), and detract from the aesthetic appeal"},
+    "BE7":
+    {"description": "Gravity-based water treatment settles suspended solids in stormwater, removing heavy particles. Prolonged accumulation may cause sediment resuspension during storms, elevating total suspended solids in outflows. Sediment around inlets or outlets poses a risk of clogging"},
+    "BE8":
+    {"description": "Sediment particles from runoff or wind in drainage areas can block green infrastructure pipes or drains. Accumulated debris impedes water flow, causing clogging and disrupting stormwater conveyance, potentially leading to ponding issues"},
+    "BE9":
+    {"description": "Foot traffic from inspections, maintenance, or passersby may compact soil, especially after rain, and damage components like check dams. During construction, use of heavy machinery could cause soil compaction, affecting infiltration rates. For green roofs, snow accumulation and maintenance activities can impact roof integrity due to live loads"},
+    "BE10":
+    {"description": "Plants species used in green infrastructure are chosen from native species that can tolerate periods of drought and periodic inundation. However, plants might not be established due to the appearance of invasive plant species, soil problems, or long periods of drought happening"},
+    "BE11":
+    {"description": "Side slopes, filter bed, inlets, non vegetated surfaces and areas around components are all prone to erosion from concentrated flows. Soil erosion is a source of total suspended solid pollution, and may cause clogging, damage the grading and decrease ponding volume of the green infrastructure"},
+    "BE12":
+    {"description": "The check dam height may change due to erosion or soil compaction around the component. This will increase the ponding volume behind the check dam, which is designed to pond water for less than 2 days. Also a high check dam causes flow turbulence which leads to erosion downstream of the channel"},
+    "BE13":
+    {"description": "Small cracks may appear due to deterioration of the concrete check dam after a series of runoff events or freeze-thaw cycles. If not addressed in time, the cracks can escalate and cause the complete deterioration of the check dam"},
+    "BE14":
+    {"description": "Check dams constructed using rocks are susceptible to deterioration and displacement of material. Stones from the check dam that are separated after heavy storm events or due to external influences such as foot traffic, can accumulate around outlets and cause clogging"},
+    "BE15":
+    {"description": "One of the tasks in routine maintenance of green infrastructure is mowing of the grass. However, if grass is cut too short, it will affect the ability of green infrastructure to slow down flows (lower channel roughness values), and be able to filter the contaminants and infiltrate the stormwater"},
+    "BE16":
+    {"description": "Although dense vegetation is needed for desirable performance of green infrastructure, highly dense vegetation effects the channel roughness values and hydraulic performance of the green infrastructure. Also, dense vegetation around inlets or outlets can hinder the normal flow of the stormwater"},
+    "BE17":
+    {"description": "Shadows could disrupt evapotranspiration of plants and soil, which is a contributing factor in green infrastructures cooling effect, and green roofs energy conservation in warm weathers. Evapotranspiration also helps with the removal of ponded stormwater"},
+    "BE18":
+    {"description": "In the winter and in cold climates, during freezing weathers the moisture remained in the top layers of the soil may freeze which can affect the infiltration rate of the soil"},
+    "BE19":
+    {"fill":"#B4C7E7","description": "In bioswales and rain gardens there should be an appropriate distance between the bottom of the ponding area and the seasonal high groundwater tables. Groundwater intrusion has a detrimental effect on the green infrastructures ability to reduce runoff volumes. Moreover, there is a chance of groundwater pollution from caused by the green infrastructure"},
+    "BE20":
+    {"description": "In cold climates, the moisture trapped in the drainage media around and inside the underdrains might freeze. This can happen if the drainage times are higher than design recommendations"},
+    "BE21":
+    {"description": "In green roofs, sensors detect soil moisture deficits for automated irrigation or leaks into the roof deck. However, live loads, root intrusion, or installation issues can lead to failures. Faulty moisture sensors may elevate soil moisture, impacting infiltration rates, or leave plants without water during drought periods"},
+    "BE22":
+    {"description": "In roofs with slopes, the irrigation system must be designed in a way that water is distributed evenly throughout the vegetated area. Uneven irrigation leads to ponding in areas that are heavily irrigated, or vegetation problems in insufficiently irrigated areas"},
+    "BE23":
+    {"description": "A natural process in pipes that originates from chemicals in the water, temperature variations, or low quality of construction material. This makes the pipe prone to leaks"},
+    "BE24":
+    {"description": "Leakages in drips or sprinklers can happen due to faulty installation or by external factors such as foot traffic, or use of heavy maintenance equipment. It can lead to leakages in vegetated areas and increase the soil moisture which affects infiltration rates"},
+    "BE25":
+    {"description": "In the autumn and winter, it is recommended that irrigation systems be turned off to prevent freezing of components (could damage the components) or avoid excessive irrigation which can decrease infiltration rates of the soil"},
+    "BE26":
+    {"description": "Irrigation systems not being able to provide water to the green infrastructure in periods of drought may damage the vegetated cover which helps with water retention, soil protection, evapotranspiration, aesthetics, etc. Clogging can lead to uneven irrigation which directly affects the performance of green infrastructures vegetation and soil"},
+    "BE27":
+    {"description": "Leakages from joints may happen due to poor sealing of the joints during the construction phase for irrigation systems used in green infrastructure. It can lead to leakages which in non-vegetated areas puts the rooftop at risk, and in vegetated areas increases the soil moisture content, causing a decrease in infiltration rates"},
+    "BE28":
+    {"description": "Mainly an issue rooted in design, high water pressure can lead to corrosion and leakages in irrigation pipes, sprinklers and joints"},
+    "BE29":
+    {"description": "The mulch layer is applied to keep the appropriate soil moisture levels for plant survival, suppressing weed growth, and maintaining organic matter. However, mulch particles might move after heavy rainfall events or long periods of operation, accumulating around outlets. This can change the outlet invert elevation or lead to clogging"},
+    "BE30":
+    {"description": "In green roofs, the protective layers may be exposed due to installation problems, aging, or wind uplift. The exposure puts the layers and the roof deck at risk of damage"},
+    "BE31":
+    {"description": "Root intrusion, sharp objects or other causes of damage can put the drainage layer at risk. Sediments from the filter media layer might move and accumulate in the drainage layer and cause clogging"},
+    "BE32":
+    {"description": "Vegetation roots can damage the under drain pipes in bioswales and rain gardens, blocking the drainage of excessive water. Root penetration can also harm protective layers in green roofs, which could lead to leakages, clogging of drainage layers, or interference with the leak detection system"},
+    "BE33":
+    {"description": "Changes in the land use patterns in the contributing drainage areas to the green infrastructure, caused from urban development, increases in impermeable surfaces, traffic and population, construction activities or appearance of other pollution hotspots, can change the amount of runoff or pollutants flowing into the green infrastructure"},
+    "BE34":
+    {"description": "Ignoring maintenance schedules and clean up of green infrastructure and their contributing drainage area could lead to an increase in the amount of pollutants accumulating inside green infrastructure, or lead to clogging of inlets or outlets"},
+    "BE35":
+    {"description": "A type of pollutant that could lead to the pollution of the outflow of green infrastructure, could affect aesthetic appeal, and be a source of health problems"},
+    "BE36":
+    {"description": "Runoff washing the top layer of soil, removing it from green infrastructure. This can increase total suspended solid levels in the outflow from the green infrastructure. Wash off could happen from around the curb cuts, or in the plunge areas of inlets"},
+    "BE37":
+    {"description": "If not emptied on time, sediments and oil collected by the separator may resuspend after rainfall events and pollute the stormwater that is flowing inside the green infrastructure"},
+    "BE38":
+    {"description": "Pollutants such as oil and heavy metals existing in urban areas may be caused from passenger cars such as leaky storage tanks or engines, vehicle parts, tire particles, road pollution, etc. Runoff may move these pollutants into green infrastructure ponding areas where they can infiltrate in soil and may leach into groundwater"},
+    "BE39":
+    {"description": "Construction activities are a source of sediment and pollution in urban areas. Construction material may end up in green infrastructure ponding areas, causing build-up at inlets, clogged soil media, and smothering plants"},
+    "BE40":
+    {"description": "Fertilizers, pesticides, and herbicides are sources of phosphorus and nitrogen. These pollutants may be present in the green infrastructure areas due to nearby lawn care and planting activities"},
+    "BE41":
+    {"description": "In some green infrastructure practices, a monitoring well is installed to check the moisture content of the filter media and drainage layers. The monitoring well should be protected by a cap, but it may get broken from maintenance activities, vandalism, etc. This vulnerability can allow intrusion of pollutants directly into the infiltrating water"},
+    "BE42":
+    {"description": "The monitoring well casing might leak due to corrosion, pressures, or aging. This creates a potential for the seepage of polluted water directly into the lower drainage layers or water table"},
+    "BE43":
+    {"description": "Due to lack of irrigation, wrong choice of plant types, weather conditions or other issues, empty patches of soil may appear around the surface of the green infrastructure. Vegetation should at least cover 80 percent of the surface area, for suitable green infrastructure operation"},
+    "BE44":
+    {"description": "Infectious diseases are caused by exposure to pathogenic organisms, such as bacteria. These pathogenic organisms can cause infections by ingestion, inhalation, dermal contact. Pathogen microorganisms enter runoff from a variety of sources, including sewage leaks, animal waste, and human waste. Since green infrastructure are used for ponding and infiltration, over time there is a chance of pathogen accumulation which may lead to health risks"},
+    "BE45":
+    {"description": "If the green infrastructure is not functioning properly to drain the ponded water in recommended time (usually up to 48 hours), there is a chance for the appearance of mosquitos or other insects"},
+    "BE46":
+    {"description": "Tree branches and leaves might be damaged from vandalism, heavy storms, accidents or aging. This in turn will decrease the area under the tree that is protected from direct sunlight"},
+    "BE47":
+    {"description": "Issues such as droughts, wrong choice of species, inadequate maintenance or lack of good soil quality can cause the trees inside green infrastructure areas to die, hence not providing the shading they were planted for"},
+    "BE48":
+    {"description": "Soil depth affects the ability of green roofs in noise attenuation. Up to a certain soil thickness, the performance of green roofs in noise attenuation can be improved"},
+    "BE49":
+    {"description": "Green roofs need accessible options for maintenance equipment and walking space for crews to inspect without harming vegetation. Some buildings restrict rooftop access for occupants due to design or load limits, limiting the green roof's potential for social activities and recreation in such cases"},
+    "BE50":
+    {"description": "In some building the green roof is designed in a way that covers the whole roof area, so there are no pathways or free zones for maintenance crews or inspectors to move on the rooftop area or to put maintenance equipment. This can cause compactions in soil or damage vegetation"},
+    "BE51":
+    {"description": "The irrigation system power supply cables on the rooftop area are also prone to damage which can hinder automatic irrigation"},
+    "BE52":
+    {"description": "The protective layers used for green roofs should be fixed in place to keep them from probable damages. Sediments could get into the layers, and exposed layers could affect other functionalities of green roofs such as energy saving or roof protection. Layer detachment could happen due to installation problems, aging, or wind uplift"},
+    "BE53":
+    {"description": "If not protected, green roof protective layers may be separated from the roof deck due to heavy winds"},
+    "BE54":
+    {"description": "Green infrastructure are often built to resemble natural habitats for insects or amphibians. Left unmaintained, the ponding areas of green infrastructure can quickly accumulate toxic pollutants that will negatively impact insects or amphibian populations. Moreover, flooding can reduce survival of species that oviposit in the green infrastructure areas"}
+}

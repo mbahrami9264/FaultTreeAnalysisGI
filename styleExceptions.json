@@ -1,0 +1,35 @@
+{
+"Salt & gravel \n accumulation":
+    {"fill":"#B4C7E7", "info":"BRonly"},
+"IE":
+    [
+    {"title":"Quantity Failure", "level": "FM", "info":""},
+    {"title":"Quality Failure", "level": "FM", "info":""},
+    {"title":"Additional Service Function Failures", "level": "FM", "info":""},
+
+    {"title":"No inflow \n from CDA", "level": "CG", "info":"BRonly"},
+    {"title":"Blocked \n Inlets", "level": "CG", "info":"BRonly"},
+    {"title":"Pollution intrusion \n from monitoring \n well", "level": "CG", "info":"BRonly"},
+    {"title":"Ineffective \n noise attenuation \n by MPA", "level": "CG", "info":"GRonly"},
+    {"title":"Limited \n Recreational \n Potential", "level": "CG", "info":"GRonly"},
+    {"title":"Damage to \n the structural \n integrity of \n the roof", "level": "CG", "info":"GRonly"},
+    {"title":"Irrigation \n system \n malfunction", "level": "CG", "info":"GRonly"},
+    {"title":"MCA/ MPA \n deteriorated", "level": "CG", "info":""},
+    {"title":"Blocked outlets", "level": "CG", "info":""},
+    {"title":"Pollution from \n CDA/ pretreatment \n devices", "level": "CG", "info":""},
+    {"title":"Pollution at inlets", "level": "CG", "info":""},
+    {"title":"Pollution from \n MCA/ MPA", "level": "CG", "info":""},
+    {"title":"Pollution caused \n from outlets", "level": "CG", "info":""},
+
+    {"title":"Check dam \n deteriorated", "level": "CF", "info":"BRonly"},
+    {"title":"Pollution from \n residential areas", "level": "CF", "info":"BRonly"},
+    {"title":"Pollution from \n filter strips", "level": "CF", "info":"BRonly"},
+    {"title":"Pollution from \n oil & grit \n separator", "level": "CF", "info":"BRonly"},
+    {"title":"Pollution from \n downspout disconnect/ \n Plunge area", "level": "CF", "info":"BRonly"},
+    {"title":"Pollution at \n curb cuts/ \n Catchbasin inserts", "level": "CF", "info":"BRonly"},
+    {"title":"Blockage of \n drainage \n layer", "level": "CF", "info":"GRonly"},
+    
+
+    {"title":"Excessive \n Irrigation", "level": "FP", "info":"GRonly"}
+    ]
+}

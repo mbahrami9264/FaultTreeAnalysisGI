@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+  <html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+
+  <title>Fault Tree Analysis of Green Infrastructure</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+  <div class="top-area">
+    <h1>A Deep Dive into Green Infrastructure Failures using Fault Tree Analysis</h1>
+    
+    <p>Mahdi Bahrami, Bardia Roghani, Franz Tscheikner-Gratl, Marius Møller Rokstad</p>
+
+    <div class="controls">
+      
+
+      <label for="fmode">Select Failure Mode: </label>
+      <select id="fmode">
+        <option value="quantitySymbol" selected>Quantity</option>
+        <option value="qualitySymbol">Quality</option>
+        <option value="additionalSymbol">Additional</option>
+      </select>
+      <button id="reset-zoom">Reset Zoom</button>
+    </div>
+  </div>
+  
+  <div id="container" class="svg-container">
+    <div id="tooltip">
+      <div class="title">
+        
+      </div>
+      <div class="description">
+        <span></span>
+      </div>
+    </div>
+  </div>
+  
+  <!-- <svg width="800" height="800"></svg> -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-drag@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-path@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-shape@3"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="app.js"></script>
+</body>

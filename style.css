@@ -1,0 +1,140 @@
+html, body {margin: 1%; height: 100%; overflow: hidden}
+.top-area {
+  background-color: #4cadd0; /* Change this to the desired background color */
+  padding: 10px; /* Add padding to create space around the controls */
+  display: flex;
+  justify-content: flex-start; /*Center the controls horizontally */
+  align-items: left; /* Center the controls vertically */
+  text-align: left; /* Center-align text */
+  flex-direction: column; 
+
+}
+
+
+
+label {
+  margin-right: 10px; /* Add some spacing between label and select */
+  font-weight: bold;
+}
+
+button {
+  margin-left: 10px; /* Add some spacing to the left of the button */
+}
+
+.controls {
+  position: fixed;
+  align-items: right;
+  left: 75%;
+  top: 10%;
+  transform: translateX(-50%);
+  
+  z-index: 3;
+  background-color: #4cadd0; /* Set a background color to make controls more visible */
+  padding: 10px;
+  
+}
+
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  vertical-align: top;
+  overflow: hidden;
+  margin-top: 10px;
+  
+}
+.svg-content {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* background-color: #e9eaea; */
+  border: 2px solid #000;
+}
+
+#tooltip {
+  text-align: left;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  width: 250px;
+  /* height: 100px; */
+  display: none;
+  z-index: 3;
+}
+
+#tooltip .title {
+  font-weight: bold;
+  text-align: left;
+  display: block;
+}
+
+#tooltip .description {
+  
+  text-align: left;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+
+
+.symbol {
+  fill: #ffffff;
+  stroke: #010101;
+  stroke-width: 3px;
+
+}
+
+
+.label {
+  text-anchor: middle;
+  font-size: 30px;
+  font-weight: bold;
+  user-select: none;
+  pointer-events: none;
+  /* Add more styles here */
+}
+
+.node--internal circle {
+  fill: #555;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
+}
+div {
+  display: flex;
+  justify-content: space-around;
+}
+
+.content {
+  position: absolute;
+  background: white;
+  width: 400px;
+  padding: 1em 2em;
+  border-radius: 4px;
+}
+.modal:target {
+  visibility: visible;
+  opacity: 1;
+}
+.box-close {
+  position: absolute;
+  top: 0;
+  right: 15px;
+  color: #fe0606;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+
